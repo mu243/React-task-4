@@ -38,7 +38,7 @@ const App = () => {
   
   return (
     <div
-      style={{ height: "600px", width: "90%" }}
+      style={{ height: "100%", width: "90%" }}
       className="flex justify-center mx-auto -mt-8"
     >
       <DataGrid
